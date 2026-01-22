@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Muhammad Siddiq  
+# 👋 Hi, I'm Muhammad Abu Bakar Siddiq  
 
-## 💻 Senior Back-End Developer  
+## 💻 Senior Software Engineer
 
-Senior Back-End Developer with over **8 years of experience** designing and implementing **enterprise-grade systems**.  
+Senior  Software Engineer with over **8 years of experience** designing and implementing **enterprise-grade systems**.  
 
 ### 🔧 Tech Stack & Expertise  
 - **Languages & Frameworks**:  
   - Java (**Spring Boot**)  
-  - JavaScript (**Node.js, Express**)  
+  - JavaScript (**Node.js, ExpressJs, NestJs**)  
   - PHP (**Laravel**)  
   - Go (**Gin**)  
 
